@@ -1,0 +1,29 @@
+.cabeçalho{
+    color: rgb(0, 0, 0);
+    padding: 30px;
+    font-family: Verdana;
+
+}
+
+.conhecer{
+font-style: normal;
+font-size: 16px;
+}
+
+.flanela{
+    position: relative;
+    left: -65px;
+}
+.agrupamento{
+    display: flex;
+    align-items: center;
+}
+.tmn{
+    max-width: 60%;
+}
+.ldc{
+    max-width: 100%;
+}
+.zgt{
+    max-width: 100%;
+}

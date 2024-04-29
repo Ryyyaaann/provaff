@@ -1,0 +1,28 @@
+.navs{
+    list-style: none;
+    background-color: #007bff;
+    color: white;
+    padding: 35px;
+    font-family: Verdana;
+    align-items: center;
+}
+
+.itens{
+    padding: 0px 20px;
+    float: right;
+    color: white;
+   
+}  
+.logosenai{
+    width: 5%;
+    position: relative;
+    float: left;
+    top: -10px;
+    justify-content: center;
+}
+.navs-link{
+    text-decoration: none;
+    color: white;
+    font-family: verdana;
+    justify-content: center;
+}
